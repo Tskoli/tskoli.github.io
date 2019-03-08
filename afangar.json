@@ -154,7 +154,7 @@
     "name": "Leikjaforritun II",
     "link": "https://namskra.is/courses/59198c9d62933a4e920543cc",
     "comment": "",
-    "parents": ["FORR2GL05(DU)", "EÐLI2GR05(BT)", "STÆR3RV05(CT)"],
+    "parents": ["FORR2GL05(DU)"],
     "description": "Í áfangnum er farið dýpra í grafík og hljóð í tölvuleikjum og sérstök áhersla er sett á rúllandi bakgrunn (e. scrolling background) og þýðingu hans fyrir tölvuleiki almennt. Kynnt verður hvernig hagnýta má ýmis eðlisfræðilögmál í leikjagerð. Byrjunaratriði í gerfigreind verða líka til umfjöllunar. Einnig er skoðuð sú grein leikja sem kallast platformers. Í lokin er farið yfir sértæk verkefni í fjölspilunarleikjum. Öll umgjörð leiks færist nú frá stigi frumgerða yfir í fullvaxta tölvuleik.",
     "core": false,
     "active": true,
@@ -174,7 +174,7 @@
     "name": "Viðmótsforritun",
     "link": "https://namskra.is/courses/5919888862933a4e9205439d",
     "comment": "",
-    "parents": ["FORR3JS05(DU)", "STÆR3RV05(CT)"],
+    "parents": ["FORR3JS05(DU)"],
     "description": "Í áfanganum fást nemendur við eftirfarandi viðfangsefni: notendaupplifun (e. UX), notendaviðmót (e. UI) og viðmótsforritun fyrir mismunandi aðstæður og umhverfi. Söfn, tæki og tól eru skoðuð og notuð við þróun afurðar. Nemendur vinna að smíði gagnvirkrar afurðar.",
     "core": false,
     "active": true,
@@ -357,7 +357,7 @@
     "parents": ["FORR2GL05(DU)", "KEST2UN05(CU)"],
     "description": "Áfanginn er verkefnadrifinn. Smíðaður er fjölþráða netleikur og sú tækni og þekking sem til þarf er kynnt, skoðuð og æfð samhliða framvindu verkefnisins. Ætlast er til að nemendur sýni frumkvæði og sjálfstæði í vinnubrögðum.",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "EÐLI2GR05(BT)",
