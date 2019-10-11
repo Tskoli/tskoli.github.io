@@ -137,7 +137,7 @@
     "parents": ["FORR3CG05(DU)", "STÆR3FM05(DT)"],
     "description": "Í áfanganum er farið í tvö mikilvæg atriði tölvunarfræðinnar, gagnaskipan og reiknirit. Farið er yfir þekkt reiknirit (e. algorithms) í tölvunarfræði sem og almenna gagnaskipan. Nemendur kynnast ýmsum gerðum reiknirita, uppbyggingu þeirra og smíði. Nemendur fá einnig innsýn í hlutverk gagnaskipunar í hugbúnaði og hvernig mismunandi skipan er leidd af mismunandi hugmyndum. Nemendur fá einnig tækifæri til að hanna og smíða fjölda forrita sem styrkja þekkingu þeirra á námsefninu.",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "FORR2GL05(DU)",
@@ -287,7 +287,7 @@
     "parents": ["KEST3LN05(EU)", "FORR2FA05(BU)"],
     "description": "Í áfanganum er farið dýpra í skeljarumhverfin bash og ksh. Ýmsar skriftur eru skoðaðar og nemendur búa til sínar eigin skriftur til að létta og auðvelda alla endurtekna vinnslu við hinar ýmsu þjónustur sem keyrðar eru á Linux. Stuðst er við kennsluefni LPI 3 frá IBM auk ýmiss annars efnis af netinu.",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "KEST2WG05(DU)",
@@ -317,7 +317,7 @@
     "parents": ["KEST3WN05(EU)"],
     "description": "Í áfanganum læra nemendur um flóknari uppsetningar á Active Directory (AD) og tengdum þjónustum með skriftum auk þess að búa til möppur, setja réttindi á þær og deila með PowerShell. Nemendur skrifa myndræn notendaskil (GUI) með PowerShell. Þá læra nemendur hvernig sækja má upplýsingar frá útstöðvum með PowerShell og Windows Management Instrumentation (WMI). Nemendum læra svo um Desire State Configuration (DSC) og vinna með Windows Server án GUI.",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "KEST3CR05(EU)",
@@ -347,7 +347,7 @@
     "parents": ["KEST3CS05(FU)"],
     "description": "Í áfanganum er megináhersla á WAN tengingar. Farið er í WAN samskiptastaðla, m.a. PPP, HDLC og breiðband, stillingar á VPN og eftirlit með netkerfum. Einnig er farið í hönnun netkerfa. Nemendur nota tölvuhermi og verklegar æfingar til að ná færni og skilningi á WAN samskiptum og hönnun netkerfa, einnig er vandamálagreining þjálfuð í þessum búnaði. ",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "FORR3NÞ05(DU)",
@@ -377,7 +377,7 @@
     "parents": [],
     "description": "Í áfanganum er fjallað um vigra og hornaföll. Helstu efnisatriði: Vigrar og reikningur með þeim - Hornaföll - Hornafallareglur og sannanir þeirra - Jöfnur línu, hrings og sporbaugs - 2X2 fylki og notkun þeirra til að finna flatarmál þríhyrnings og leysa jöfnuhneppi",
     "core": true,
-    "active": true,
+    "active": false,
     "tbr": false
 }, {
     "id": "VAL05",
@@ -397,7 +397,7 @@
     "parents": [],
     "description": "Í áfanganum er fjallað um föll og diffrun þeirra. Helstu efnisatriði: - Föll og ferlar falla - Hliðrun falla, takmörkuð föll, einhalla föll , andhverfur falla, ýmsar tegundir falla - Markgildi og samfeldni - Snertill, diffurkvóti, afleiða - Ýmsar diffurreglur",
     "core": true,
-    "active": true,
+    "active": false,
     "tbr": false
 }, {
     "id": "FORR3CG05(DU)",
