@@ -254,7 +254,7 @@
     "name": "Gagnasafnsfræði - Gagnasöfn og gagnavinnsla",
     "link": "https://namskra.is/courses/591c2a6e62933a4e920558ca",
     "comment": "",
-    "parents": ["GAGN2VG05(CU)"],
+    "parents": ["GAGN2HS05(BU)"],
     "description": "Í áfanganum kynnast nemendur gagnalíkönum og gagnavinnslu sem ekki endilega er byggð á venslaða líkaninu. Skoðuð eru gagnasöfn (e. data sets) sem finnast á veraldarvefnum og unnið með upplýsingar þaðan. Athygli er beint að mismunandi gagnalíkönum sem notuð eru í hinum ýmsu gagnasettum og hvaða tækni er notuð til að vinna með þau. Skoðað er sérstaklega hvernig finna má upplýsingar í gögnum og hagnýta t.d. við ákvarðanatöku. Notaður er m.a. sérhæfður gagnavinnsluhugbúnaður til að vinna með hinar ýmsu tegundir af gögnum. Heildarinntak þessa áfanga er stutt kynning á gagnavísindum.  Nemendur vinna sjálfstætt að fjölbreyttum verkefnum.",
     "core": false,
     "active": true,
