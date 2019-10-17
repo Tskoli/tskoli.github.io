@@ -180,7 +180,7 @@
     "active": true,
     "tbr": true
 }, {
-    "id": "VEFÞ3VÞ05(DU)",
+    "id": "VEFÞ2VÞ05(DU)",
     "name": "Vefforritun II",
     "link": "https://namskra.is/courses/591c517262933a4e920559e9",
     "comment": "",
@@ -194,7 +194,7 @@
     "name": "Vefforritun III",
     "link": "https://namskra.is/courses/591c527462933a4e920559f5",
     "comment": "",
-    "parents": ["VEFÞ3VÞ05(DU)", "FORR3JS05(DU)"],
+    "parents": ["VEFÞ2VÞ05(DU)", "FORR3JS05(DU)"],
     "description": "Í áfanganum fást nemendur við hinar ýmsu hliðar í vefþróun. Unnið er með tækni og hugmyndir sem nemendur byggja inn í sínar veflausnir. Kynntar eru vefþjónustur (e. API) og hvernig þær eru notaðar með veflausnum. Notast er við hlutbundna aðferðafræði og MVC mynstur í vefforritun ásamt notkun beininga (e. routing). Söfn og ýmis forritunarmál eru skoðuð og notuð til að einfalda verk og við þróun veflausna.",
     "core": false,
     "active": false,
