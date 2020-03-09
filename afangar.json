@@ -137,7 +137,7 @@
     "parents": ["FORR3CG05(DU)", "STÆR3FM05(DT)"],
     "description": "Í áfanganum er farið í tvö mikilvæg atriði tölvunarfræðinnar, gagnaskipan og reiknirit. Farið er yfir þekkt reiknirit (e. algorithms) í tölvunarfræði sem og almenna gagnaskipan. Nemendur kynnast ýmsum gerðum reiknirita, uppbyggingu þeirra og smíði. Nemendur fá einnig innsýn í hlutverk gagnaskipunar í hugbúnaði og hvernig mismunandi skipan er leidd af mismunandi hugmyndum. Nemendur fá einnig tækifæri til að hanna og smíða fjölda forrita sem styrkja þekkingu þeirra á námsefninu.",
     "core": false,
-    "active": false,
+    "active": true,
     "tbr": true
 }, {
     "id": "FORR2GL05(DU)",
@@ -397,7 +397,7 @@
     "parents": [],
     "description": "Í áfanganum er fjallað um föll og diffrun þeirra. Helstu efnisatriði: - Föll og ferlar falla - Hliðrun falla, takmörkuð föll, einhalla föll , andhverfur falla, ýmsar tegundir falla - Markgildi og samfeldni - Snertill, diffurkvóti, afleiða - Ýmsar diffurreglur",
     "core": true,
-    "active": false,
+    "active": true,
     "tbr": false
 }, {
     "id": "FORR3CG05(DU)",
