@@ -134,7 +134,7 @@
     "name": "Reiknirit",
     "link": "https://namskra.is/courses/591992ca62933a4e920543f4",
     "comment": "",
-    "parents": ["FORR3CG05(DU)", "STÆR3FM05(DT)"],
+    "parents": ["FORR2HF05(CU)", "STÆR3FM05(DT)"],
     "description": "Í áfanganum er farið í tvö mikilvæg atriði tölvunarfræðinnar, gagnaskipan og reiknirit. Farið er yfir þekkt reiknirit (e. algorithms) í tölvunarfræði sem og almenna gagnaskipan. Nemendur kynnast ýmsum gerðum reiknirita, uppbyggingu þeirra og smíði. Nemendur fá einnig innsýn í hlutverk gagnaskipunar í hugbúnaði og hvernig mismunandi skipan er leidd af mismunandi hugmyndum. Nemendur fá einnig tækifæri til að hanna og smíða fjölda forrita sem styrkja þekkingu þeirra á námsefninu.",
     "core": false,
     "active": true,
@@ -181,7 +181,7 @@
     "tbr": true
 }, {
     "id": "VEFÞ2VÞ05(DU)",
-    "name": "Vefforritun II",
+    "name": "Vefþróun IV",
     "link": "https://namskra.is/courses/591c517262933a4e920559e9",
     "comment": "",
     "parents": ["VEFÞ2VF05(CU)", "FORR3JS05(DU)"],
@@ -221,7 +221,7 @@
     "tbr": true
 }, {
     "id": "VEFÞ2VF05(CU)",
-    "name": "Vefforritun I",
+    "name": "Vefþróun III",
     "link": "https://namskra.is/courses/591c4cd162933a4e920559c4",
     "comment": "",
     "parents": ["FORR2FA05(BU)", "VEFÞ1VG05(AU)", "GAGN1NG05(AU)"],
