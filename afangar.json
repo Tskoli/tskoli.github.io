@@ -273,7 +273,7 @@
     "id": "KEST3LN05(EU)",
     "name": "Linux - netstjórnun",
     "link": "https://namskra.is/courses/591c28ad62933a4e920558bb",
-    "comment": "Má taka samhliða KEST3LS05(FU)",
+    "comment": "Má taka samhliða KEST2UN05(CU)",
     "parents": ["KEST2UN05(CU)"],
     "description": "Í áfanganum er farið í ýmsa sértæka þætti við umsjón og stjórnun Linux í netumhverfinu með root aðgangi. Meðal þeirra þátta eru t.d. póstþjónn (E-mail), nafnaþjónn (DNS), vefþjónn (Apache), skráarþjónn (NFS), prentþjónn (CUPS), gagnaþjónn (my-SQL), dulritun (SSH/GPG) og eldveggur (iptables). Stuðst er við kennsluefni frá NDG sem undirbýr nemendur undir alþjóðlegt próf LPIC-1.",
     "core": false,
@@ -290,7 +290,7 @@
     "active": false,
     "tbr": true
 }, {
-    "id": "KEST2WG05(DU)",
+    "id": "KEST3WG05(DU)",
     "name": "Windows Server - grunnur",
     "link": "https://namskra.is/courses/591c532b62933a4e920559fe",
     "comment": "Má taka samhliða KEST2UN05(CU)",
@@ -307,7 +307,7 @@
     "parents": ["KEST2WG05(DU)"],
     "description": "Í áfanganum er farið dýpra í reglustýringar, DHCP (e. Dynamic Host Configuration Protocol) og DNS (e. Domain Name System). Nemendur læra að skrifa PowerShell skriftur til að setja upp Active Directory (AD), DHCP og DNS auk þess sem þeir læra að gera skriftur til að búa til notendur. Farið er í uppbyggingu Active Directory Schema og hvernig gera má breytingar á því. Nemendur vinna svo með Microsoft Internet Information Server (IIS) og Microsoft SQL Server eða skyldum þjónustum. Þá er fjallað um Virtual Private Networking (VPN) og öryggis- og eftirlitsmál.",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "KEST3WS05(FU)",
