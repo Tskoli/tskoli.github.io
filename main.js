@@ -116,8 +116,13 @@ function synaModal(e) {
         afangi.parents.length === 1 ? 'Undanfari: ' : 'Undanfarar: ';
     //document.getElementsByClassName("mundanfarar")[0].textContent = `${undanfaraTexti} ${afangi.parents.map(p => p.id).join(', ')}`;
     document.getElementsByClassName("mundanfarar")[0] = undanFararModal(afangi);
-    document.getElementsByClassName("mlinkur")[0].href = afangi.link;
-    document.getElementsByClassName("mlinkur")[0].textContent = 'Sjá nánar á námskrá.is';
+    if (afangi.link) {
+        document.getElementsByClassName("mlinkur")[0].href = afangi.link;
+        document.getElementsByClassName("mlinkur")[0].textContent = 'Sjá nánar á námskrá.is';
+    } else {
+        document.getElementsByClassName("mlinkur")[0].href = "";
+        document.getElementsByClassName("mlinkur")[0].textContent = '';
+    }
     
 
     document.getElementsByClassName("mcomment")[0].textContent = afangi.comment;

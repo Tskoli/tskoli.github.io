@@ -17,7 +17,7 @@
     "parents": ["FORR1FG05(AU)"],
     "description": "Valáfangi í forritun þar sem nemendur undirbúa sig fyrir Forritunarkeppni framhaldsskólanna og lýkur áfanganum með þátttöku í forritunarkeppninni. ",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "FORK2FT02(BU)",
@@ -27,7 +27,7 @@
     "parents": ["FORR1FG05(AU)", "FORK2FE02(AU)"],
     "description": "Valáfangi í forritun þar sem nemendur undirbúa sig fyrir Forritunarkeppni framhaldsskólanna og lýkur áfanganum með þátttöku í forritunarkeppninni. ",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "FORK2FÞ02(CU)",
@@ -37,7 +37,7 @@
     "parents": ["FORK2FT02(BU)"],
     "description": "Valáfangi í forritun þar sem nemendur undirbúa sig fyrir Forritunarkeppni framhaldsskólanna og lýkur áfanganum með þátttöku í forritunarkeppninni. ",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "FORR2FA05(BU)",
@@ -124,7 +124,7 @@
     "name": "Gagnaskipan (C++)",
     "link": "https://namskra.is/courses/5919a86a62933a4e92054462",
     "comment": "Áfangi er eingöngu í boði á 5.önn og uppúr",
-    "parents": ["FORR2HF05(CU)"],
+    "parents": [],
     "description": "Áfanginn er framhald FORR3CG05DU og hér er áhersla á föll/aðferðir og hlutbundna forritun. Unnið er með utanaðkomandi gögn svo sem textaskrár og gagnagrunna. Forritun með frávikum (e. exceptions) búin til og notuð. Einnig er unnið með marga klasa í sama verkefni.",
     "core": false,
     "active": false,
@@ -267,14 +267,14 @@
     "parents": ["KEST2UN05(CU)"],
     "description": "Í áfanganum er farið í helstu skipanir í Linux umhverfinu og nemendur kynnast muninum á því að vera notandi og stjórnandi í Linux umhverfi í gegnum terminal vinnu. Farið er í þætti eins og skeljar, skráarvinnslu, skráarvernd, afritun, pípur, síur, ræsingu, lokun, diskastýringar og pakkakerfi. Stuðst er við kennsluefni frá NDG sem undirbýr nemendur undir alþjóðlegt próf LPIC-1.",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "KEST3LN05(EU)",
     "name": "Linux - netstjórnun",
     "link": "https://namskra.is/courses/591c28ad62933a4e920558bb",
     "comment": "Má taka samhliða KEST3LS05(FU)",
-    "parents": ["KEST2LG05(DU)"],
+    "parents": ["KEST2UN05(CU)"],
     "description": "Í áfanganum er farið í ýmsa sértæka þætti við umsjón og stjórnun Linux í netumhverfinu með root aðgangi. Meðal þeirra þátta eru t.d. póstþjónn (E-mail), nafnaþjónn (DNS), vefþjónn (Apache), skráarþjónn (NFS), prentþjónn (CUPS), gagnaþjónn (my-SQL), dulritun (SSH/GPG) og eldveggur (iptables). Stuðst er við kennsluefni frá NDG sem undirbýr nemendur undir alþjóðlegt próf LPIC-1.",
     "core": false,
     "active": true,
@@ -327,7 +327,7 @@
     "parents": ["KEST2UN05(CU)"],
     "description": "Í áfanganum er megináhersla á samskipti milli beina og skipta í litlu netkerfi. Farið er í innviði og virkni á netkerfisbúnaði, m.a. VLAN, static og dynamic routing, ACL, DHCP og NAT. Stuðst er við verklegar æfingar og tölvuhermi til að auka færni nemenda í að stilla og bilanagreina beina og skipta.",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "KEST3CS05(FU)",
@@ -337,7 +337,7 @@
     "parents": ["KEST3CR05(EU)"],
     "description": "Í áfanganum er megináhersla á stærri netkerfi. Farið er í flóknar stillingar á netkerfisbúnaði. Nemendur læra að stilla og bilanagreina switcha og routera, þeir læra að leysa algeng vandamál sem tengjast OSPF, EIGRP, STP og VLAN. Nemendur fá einnig þjálfun í að setja upp meðalstórt þráðlaust netkerfi. Nemendur nota tölvuhermi og verklegar æfingar til að ná færni og skilningi á netkerfum.",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "KEST3CN05(GU)",
@@ -387,7 +387,7 @@
     "parents": ["GAGN2HS05(BU)", "ROBO2RG05(AU)", "KEST2LG05(DU)", "KEST2WG05(DU)"],
     "description": "Nemendur sem eru að fara á 3. önn skulu velja einn af neðantöldum áföngum í aðalval og tvo í varaval.",
     "core": false,
-    "active": true,
+    "active": false,
     "tbr": true
 }, {
     "id": "STÆR3FM05(DT)",
@@ -409,4 +409,26 @@
     "core": false,
     "active": true,
     "tbr": true
+},{
+    "id": "KEST3CO05(DU)",
+    "name": "Ethical Hacking - CyberOps Associate",
+    "link": null,
+    "comment": "",
+    "parents": ["KEST2UN05(CU)"],
+    "description": "Í áfanganum er farið í Ethical Hacking – CyberOps Associate. Fyrirtæki þurfa að greina og bregðast við öryggisatvikum á skjótan og skilvirkan máta. Teymi í öryggisaðgerðarmiðstöðvum (Security Operations Centers, SOC) þurfa að hafa vakandi auga með öryggiskerfum til að vernda fyrirtækin með því að greina og bregðast við netógnunum. Áfanginn er góður undirbúningur fyrir Cisco Certified CyberOps Associate alþjóðlega vottun (200-201 CBROPS).",
+    "core": false,
+    "active": false,
+    "tbr": true,
+    "bval": 2
+}, {
+    "id": "KEST3DN05(DU)",
+    "name": "DevNet Associate",
+    "link": null,
+    "comment": "",
+    "parents": ["KEST2UN05(CU)"],
+    "description": "Í áfanganum er notuð aðferðarfræði og verkfæri við nútímahugbúnaðargerð á rekstur upplýsingatæknibúnaðar og netkerfa. Farið er í örþjónustur, prófanir, containers og aðrar skýjalausnir, einig hvernig sjálvirkni á innviðum með API og öryggi í samskiptum. Gerðar eru verklegar æfingar m.a. forritun í Python með notkun á GIT og algengum gagnaformum (JSON, XML og YAML) eru notuð til að flytja upplýsingar með Continuous Integration/Continuous Deployment(CI/CD) pípum.",
+    "core": false,
+    "active": true,
+    "tbr": true,
+    "bval": 2
 }]
