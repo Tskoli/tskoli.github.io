@@ -319,7 +319,8 @@ div.onn6 {
 }
 
 .ROBO,
-.VERK {
+.VERK,
+.VESM {
     background: var(--ROBO);
 }
 
@@ -338,7 +339,8 @@ div.onn6 {
 .ÍÞRÓ,
 .LÍFS,
 .ENSK,
-.DANS {
+.DANS,
+.VITI {
     background: var(--ANNAD);
 }
 
