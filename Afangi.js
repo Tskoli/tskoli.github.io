@@ -10,6 +10,7 @@ class Afangi {
         this.core = jsonData.core;
         this.active = jsonData.active;
         this.tbr = jsonData.tbr;
+        this.bval = jsonData.bval;
     }
 
     get div() {

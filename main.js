@@ -24,8 +24,11 @@ let isModal = false;
 function synaDiv(afangi) {
     const btn = document.createElement('button');
     btn.className = "afangar";
-    btn.className += afangi.tbr ? "" : " nontbr";
+/*     btn.className += afangi.tbr ? "" : " nontbr";
     btn.className += afangi.core ? " core" : "";
+    if(afangi.bval === 1) btn.className += " bval1";
+    if(afangi.bval === 2) btn.className += " bval2";
+    if(afangi.bval === 9) btn.className += " bval9"; */
     btn.className += ` ${afangi.id.substring(0,4)}`;
     btn.style.gridArea = afangi.id.split('0')[0];
     btn.id = afangi.id;
@@ -45,6 +48,7 @@ function teiknaParUndanfara() {
 
         function teikna(afangi, cDiv, ulinur) {
             afangi.parents.forEach(undanfari => {
+                //console.log(afangi.id);
                 uDiv = document.getElementById(undanfari.id);
                 undanfaraAfangar.add(uDiv);
                 const undanfaraLina = new LeaderLine(
@@ -141,7 +145,7 @@ function synaModal(e) {
     modaloverlay.style.display = 'block';
     window.addEventListener('click', e => {
         if(e.target === modaloverlay) {
-            console.log(e.target);
+            //console.log(e.target);
             lokaModal();
         }
     }); 
